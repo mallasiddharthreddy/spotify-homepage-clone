@@ -20,6 +20,5 @@ Currently in development — interactive features will be added using JavaScript
 - Preview below!
 
 ## Preview
-![Screenshot](./photos/clone_homepage.png) <!-- save your screenshot inside /photos -->
+![Screenshot](./photos/clone_homepage.png) 
 
-## 📁 Folder Structure
